@@ -6,8 +6,6 @@ def my_each(array)
         yield array[i]
         i += 1
       end
-    else
-      puts "No block provided or array length is 0"
     end
 
 end
