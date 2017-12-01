@@ -9,5 +9,5 @@ def my_each(array)
     else
       puts "No block provided or array length is 0"
     end
-      
+
 end
